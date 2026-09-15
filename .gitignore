@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
+
+.vscode/
+
+.env
+
+.DS_Store
+Thumbs.db
+
+data/raw/*
+!data/raw/.gitkeep
